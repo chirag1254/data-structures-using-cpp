@@ -78,5 +78,5 @@ class Stack{
 };
 int main()
 {
-   
+   Stack obj1;
 }
